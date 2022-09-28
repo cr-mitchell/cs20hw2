@@ -1,0 +1,38 @@
+body {
+    background-image: url(background.jpg);
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+    height:40px;
+    text-align: center;
+}
+
+main {
+    color:snow;
+}
+
+h2 {
+    font-family:Cambria, 'Cochin', Georgia, Timess, serif;
+    text-align: center;
+}
+
+p1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+p2 {
+    font-family: fantasy;
+}
+
+nav a {
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: fantasy;
+    padding-left: 22px;
+    padding-right: 22px;
+}
